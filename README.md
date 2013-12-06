@@ -1,4 +1,4 @@
 hotelproj
 =========
 
-project for hotel
+server source code for hotel project
